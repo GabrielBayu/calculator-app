@@ -5,7 +5,7 @@ class calculator {
 		
 	}
 	static int Penambahan (int a, int b){
-		retunrn a + b;
+		return a + b;
 	}
 }
 
